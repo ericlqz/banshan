@@ -1,4 +1,5 @@
 #个人微信公众帐号开发
+技术框架: web.py + uwsgi + nginx + mysql
 
 ##待解决的问题：
 
